@@ -21,7 +21,6 @@ const getContactById = async (contactId) => {
     return null;
   }
 
-  console.log(element);
   return element;
 };
 
